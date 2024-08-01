@@ -1,7 +1,4 @@
 document.getElementById("meuBotao").addEventListener("click", function() {
-    alert("Você clicou no botão!");
-});
-document.getElementById("meuBotao").addEventListener("click", function() {
     var imagemContainer = document.getElementById("imagemContainer");
     
     // Limpa qualquer imagem anterior (opcional)
