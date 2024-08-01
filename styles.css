@@ -25,6 +25,8 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
+/* Estilo para o container da imagem */
 #imagemContainer {
     margin-top: 20px;
     text-align: center;
